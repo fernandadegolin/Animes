@@ -3,3 +3,9 @@
 html{
     font-family: 'Saira Condensed', sans-serif;
 }
+
+.pagination__item--active {
+    background: none;
+    font-weight: bold;
+    border: none;
+  }
